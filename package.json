@@ -26,12 +26,12 @@
   ],
   "homepage": "https://github.com/JakeH/pm2-cluster-prometheus#readme",
   "peerDependencies": {
-    "pm2": ">= 3.5.1 <= 4",
+    "pm2": "^5.4.3",
     "prom-client": ">=11 <=14"
   },
   "devDependencies": {
     "@types/node": "^10.17.24",
-    "pm2": "^4.4.0",
+    "pm2": "^5.4.3",
     "prom-client": "14.0.1",
     "tslint": "^6.1.2",
     "typescript": "^3.9.5"
