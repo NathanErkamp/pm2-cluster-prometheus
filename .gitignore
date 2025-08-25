@@ -1,5 +1,5 @@
 # NPM package output
-dist/
+# dist/
 
 # Logs
 logs
