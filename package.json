@@ -1,6 +1,6 @@
 {
   "name": "pm2-cluster-prom",
-  "version": "2.1.0",
+  "version": "1.0.0",
   "description": "",
   "main": "./dist/index.js",
   "types": "./dist/index.d.ts",
@@ -10,12 +10,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/JakeH/pm2-cluster-prometheus.git"
+    "url": "git+https://github.com/NathanErkamp/pm2-cluster-prometheus.git"
   },
-  "author": "Jake Hickman",
+  "author": "Nathan Erkamp",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/JakeH/pm2-cluster-prometheus/issues"
+    "url": "https://github.com/NathanErkamp/pm2-cluster-prometheus/issues"
   },
   "keywords": [
     "pm2",
@@ -24,7 +24,7 @@
     "prom",
     "metrics"
   ],
-  "homepage": "https://github.com/JakeH/pm2-cluster-prometheus#readme",
+  "homepage": "https://github.com/NathanErkamp/pm2-cluster-prometheus#readme",
   "peerDependencies": {
     "pm2": "^7.1.2",
     "prom-client": ">=11 <=14"
